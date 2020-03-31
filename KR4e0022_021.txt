@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 清江詩集
-#+DATE: 2020-03-31 11:36:44.581137
+#+DATE: 2020-03-31 11:36:44.930721
 #+PROPERTY: ID KR4e0022
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 21
 <pb:KR4e0022_WYG_021-1a>¶
 　　欽定四庫全書¶
@@ -191,7 +191,7 @@
 ¶
 　　於維華嚴經傳西國毘盧性海孰臻其極如雲彌空如¶
 月照川菩薩脩羅聲聞人天一念内萌十界㝷見不索¶
-&KR0444;冥近而匪逺匪逺曷求惟性為門克信而行悟道之¶
+窈冥近而匪逺匪逺曷求惟性為門克信而行悟道之¶
 <pb:KR4e0022_WYG_021-10b>¶
 原偉哉尚公七齡有識長參景巖譬枵斯食升堂說經¶
 吐音雷震龍象大駭濟彼方淪十霜常樂棟宇輪奐繼¶

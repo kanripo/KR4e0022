@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 清江詩集
-#+DATE: 2020-03-31 11:36:44.590423
+#+DATE: 2020-03-31 11:36:44.935730
 #+PROPERTY: ID KR4e0022
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 22
 <pb:KR4e0022_WYG_022-1a>¶
 　　欽定四庫全書¶
@@ -228,7 +228,7 @@
 田也必樹嘉榖去稂莠而至有年嗟善之在人者茍無¶
 場師農父之智恒戕賊而弗全鄭衛之音簧吾耳燕趙¶
 之豔蒿吾前肆行無覺既汰而顚故貴夫君子之學存¶
-乎中不為物遷我塗孔𡗝我宅孔安是居是由無失其¶
+乎中不為物遷我塗孔夷我宅孔安是居是由無失其¶
 本然庶積之而後豐庸詎非後昆之慶百世其延¶
 ¶
 ¶

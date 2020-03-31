@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 清江詩集
-#+DATE: 2020-03-31 11:36:44.383646
+#+DATE: 2020-03-31 11:36:44.797666
 #+PROPERTY: ID KR4e0022
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 3
 <pb:KR4e0022_WYG_003-1a>¶
 　　欽定四庫全書¶
@@ -279,7 +279,7 @@
 ¶
 　　市朝非素心林壑契𤣥賞讀書甘寂寞宻竹更蕭爽衝¶
 人虎豹徑閉户蠨蛸網寒梢朽不蠧野笋苞初長風生¶
-回鶴夢月出聞𤠔響如何猶戀禄廐馬存病顙相期結¶
+回鶴夢月出聞猿響如何猶戀禄廐馬存病顙相期結¶
 二仲兹焉共來徃¶
 ¶
 　　送黄仲箎上官檇李¶

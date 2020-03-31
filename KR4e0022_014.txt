@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 清江詩集
-#+DATE: 2020-03-31 11:36:44.513260
+#+DATE: 2020-03-31 11:36:44.889076
 #+PROPERTY: ID KR4e0022
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 14
 <pb:KR4e0022_WYG_014-1a>¶
 　　欽定四庫全書¶
@@ -174,7 +174,7 @@
 <pb:KR4e0022_WYG_014-9b>¶
 高匪福道否終愆蘭悲塗剪玉恥璞全諤諤宣公華峰¶
 一柱衆邪而傾孤立無與炳炳萬言以藥人主功濟時¶
-屯謗由直賈有烈其芳有&KR0177;其光近宗遠法豈惟一鄉¶
+屯謗由直賈有烈其芳有燁其光近宗遠法豈惟一鄉¶
 九山峩峩與岳相望匪山之高伊人之良¶
 ¶
 　　罵蚊¶
